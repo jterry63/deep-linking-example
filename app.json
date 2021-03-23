@@ -1,6 +1,7 @@
 {
   "expo": {
     "name": "DeepLinkingBlog",
+    "scheme": "debtkarma",
     "slug": "DeepLinkingBlog",
     "privacy": "public",
     "sdkVersion": "36.0.0",
